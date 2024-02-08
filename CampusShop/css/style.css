@@ -44,8 +44,6 @@ img {
 
 
 
-
-
 /* SIDEBAR */
 #sidebar {
 	position: fixed;
@@ -289,6 +287,13 @@ nav .divider {
 	height: 12px;
 	display: block;
 }
+
+.nav-end {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 5px;
+}
 /* NAVBAR */
 
 
@@ -341,9 +346,9 @@ main .info-data .card {
 	margin-top: 20px;
 
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-auto-columns: max-content;
+	
 	grid-auto-flow: row;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
 	gap: 20px;
 }
 
@@ -351,12 +356,15 @@ main .info-data .card {
 	background-color: var(--light);
 	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
 	border-radius: 10px;
+
 }
 
 .content-data {
+	margin: auto;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	align-items: center;
 	text-align: center;
 	padding: 20px;
 	height: 350px;
@@ -370,6 +378,8 @@ main .info-data .card {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+
+	transition: transform 0.2s ease;
 }
 
 .card-img__abrigo1 {
@@ -385,7 +395,40 @@ main .info-data .card {
 	background-image: url("/admin-site/img/Sweters/producto4/grande1.webp");
 }
 
+.card-img__abrigo1:hover, .card-img__abrigo2:hover, .card-img__abrigo3:hover, .card-img__abrigo4:hover {
+	transform: scale(1.1);
+	border: double 5px var(--green);
+	border-radius: 10px;
+}
 
+.card-button {
+	padding: 5px;
+	width: 70%;
+	margin: auto;
+	background-color: var(--dark-blue);
+	color: var(--light);
+	border: solid 2px var(--blue);
+	border-radius: 10px;
+
+	transition: all 0.3s ease;
+}
+
+.card-button:hover {
+	background-color: var(--green);
+	border-color: var(--light);
+	transform: scale(1.1);
+}
+
+@media screen and (max-width: 1166px) {
+	.data {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}
+@media screen and (max-width: 620px) {
+	.data {
+		grid-template-columns: 1fr;
+	}
+}
 
 @media screen and (max-width: 768px) {
 	#content {
