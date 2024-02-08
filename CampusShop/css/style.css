@@ -385,16 +385,16 @@ main .info-data .card {
 }
 
 .card-img__abrigo1 {
-	background-image: url("/CampusShop/img/Sweters/producto1/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto1/grande1.webp");
 }
 .card-img__abrigo2 {
-	background-image: url("/CampusShop/img/Sweters/producto2/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande1.webp");
 }
 .card-img__abrigo3 {
-	background-image: url("/CampusShop/img/Sweters/producto3/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto3/grande1.webp");
 }
 .card-img__abrigo4 {
-	background-image: url("/CampusShop/img/Sweters/producto4/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto4/grande1.webp");
 }
 
 .card-img__abrigo1:hover, .card-img__abrigo2:hover, .card-img__abrigo3:hover, .card-img__abrigo4:hover {
@@ -416,16 +416,16 @@ main .info-data .card {
 }
 
 .card-img__camisa1 {
-	background-image: url("/CampusShop/img/Camisas/producto1/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto1/grande1.webp");
 }
 .card-img__camisa2 {
-	background-image: url("/CampusShop/img/Camisas/producto2/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto2/grande1.webp");
 }
 .card-img__camisa3 {
-	background-image: url("/CampusShop/img/Camisas/producto3/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto3/grande1.webp");
 }
 .card-img__camisa4 {
-	background-image: url("/CampusShop/img/Camisas/producto4/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto4/grande1.webp");
 }
 
 .card-img__camisa1:hover, .card-img__camisa2:hover, .card-img__camisa3:hover, .card-img__camisa4:hover {
@@ -447,16 +447,16 @@ main .info-data .card {
 }
 
 .card-img__pantalon1 {
-	background-image: url("/CampusShop/img/Pantalones/producto1/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto1/grande1.webp");
 }
 .card-img__pantalon2 {
-	background-image: url("/CampusShop/img/Pantalones/producto2/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto2/grande1.webp");
 }
 .card-img__pantalon3 {
-	background-image: url("/CampusShop/img/Pantalones/producto3/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto3/grande1.webp");
 }
 .card-img__pantalon4 {
-	background-image: url("/CampusShop/img/Pantalones/producto4/grande1.webp");
+	background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto4/grande1.webp");
 }
 
 .card-img__pantalon1:hover, .card-img__pantalon2:hover, .card-img__pantalon3:hover, .card-img__pantalon4:hover {
@@ -582,18 +582,18 @@ main .info-data .card {
 }
 
 .info-img__abrigo1Pequeña1 {
-	background-image: url(/CampusShop/img/Sweters/producto1/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto1/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__abrigo1Pequeña2 {
-	background-image: url(/CampusShop/img/Sweters/producto1/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto1/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__abrigo1Pequeña3 {
-	background-image: url(/CampusShop/img/Sweters/producto1/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto1/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -602,7 +602,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Sweters/producto1/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto1/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -613,7 +613,7 @@ main .info-data .card {
 }
 
 .info-img__abrigo1Pequeña1:hover ~ .info-img__abrigo1Grande{
-    background-image: url("/CampusShop/img/Sweters/producto1/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto1/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -621,7 +621,7 @@ main .info-data .card {
 }
 
 .info-img__abrigo1Pequeña2:hover ~ .info-img__abrigo1Grande {
-    background-image: url("/CampusShop/img/Sweters/producto1/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto1/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -640,18 +640,18 @@ main .info-data .card {
 }
 
 .info-img__abrigo2Pequeña1 {
-	background-image: url(/CampusShop/img/Sweters/producto2/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__abrigo2Pequeña2 {
-	background-image: url(/CampusShop/img/Sweters/producto2/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__abrigo2Pequeña3 {
-	background-image: url(/CampusShop/img/Sweters/producto2/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -661,7 +661,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Sweters/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -672,7 +672,7 @@ main .info-data .card {
 }
 
 .info-img__abrigo2Pequeña1:hover ~ .info-img__abrigo2Grande{
-    background-image: url("/CampusShop/img/Sweters/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -680,13 +680,13 @@ main .info-data .card {
 }
 
 .info-img__abrigo2Pequeña2:hover ~ .info-img__abrigo2Grande {
-    background-image: url("/CampusShop/img/Sweters/producto2/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__abrigo2Pequeña3:hover ~ .info-img__abrigo2Grande {
-    background-image: url("/CampusShop/img/Sweters/producto2/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -705,18 +705,18 @@ main .info-data .card {
 }
 
 .info-img__abrigo3Pequeña1 {
-	background-image: url(/CampusShop/img/Sweters/producto3/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto3/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__abrigo3Pequeña2 {
-	background-image: url(/CampusShop/img/Sweters/producto3/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto3/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__abrigo3Pequeña3 {
-	background-image: url(/CampusShop/img/Sweters/producto3/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto3/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -726,7 +726,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Sweters/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -737,7 +737,7 @@ main .info-data .card {
 }
 
 .info-img__abrigo3Pequeña1:hover ~ .info-img__abrigo3Grande{
-    background-image: url("/CampusShop/img/Sweters/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -745,13 +745,13 @@ main .info-data .card {
 }
 
 .info-img__abrigo3Pequeña2:hover ~ .info-img__abrigo3Grande {
-    background-image: url("/CampusShop/img/Sweters/producto2/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__abrigo3Pequeña3:hover ~ .info-img__abrigo3Grande {
-    background-image: url("/CampusShop/img/Sweters/producto2/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -770,18 +770,18 @@ main .info-data .card {
 }
 
 .info-img__abrigo4Pequeña1 {
-	background-image: url(/CampusShop/img/Sweters/producto4/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto4/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__abrigo4Pequeña2 {
-	background-image: url(/CampusShop/img/Sweters/producto4/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto4/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__abrigo4Pequeña3 {
-	background-image: url(/CampusShop/img/Sweters/producto4/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Sweters/producto4/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -791,7 +791,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Sweters/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -802,7 +802,7 @@ main .info-data .card {
 }
 
 .info-img__abrigo4Pequeña1:hover ~ .info-img__abrigo4Grande{
-    background-image: url("/CampusShop/img/Sweters/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -810,13 +810,13 @@ main .info-data .card {
 }
 
 .info-img__abrigo4Pequeña2:hover ~ .info-img__abrigo4Grande {
-    background-image: url("/CampusShop/img/Sweters/producto2/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__abrigo4Pequeña3:hover ~ .info-img__abrigo4Grande {
-    background-image: url("/CampusShop/img/Sweters/producto2/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Sweters/producto2/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -836,18 +836,18 @@ main .info-data .card {
 }
 
 .info-img__camisa1Pequeña1 {
-	background-image: url(/CampusShop/img/Camisas/producto1/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto1/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__camisa1Pequeña2 {
-	background-image: url(/CampusShop/img/Camisas/producto1/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto1/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__camisa1Pequeña3 {
-	background-image: url(/CampusShop/img/Camisas/producto1/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto1/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -856,7 +856,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Camisas/producto1/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto1/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -867,7 +867,7 @@ main .info-data .card {
 }
 
 .info-img__camisa1Pequeña1:hover ~ .info-img__camisa1Grande{
-    background-image: url("/CampusShop/img/Camisas/producto1/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto1/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -875,13 +875,13 @@ main .info-data .card {
 }
 
 .info-img__camisa1Pequeña2:hover ~ .info-img__camisa1Grande {
-    background-image: url("/CampusShop/img/Camisas/producto1/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto1/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__camisa1Pequeña3:hover ~ .info-img__camisa1Grande {
-    background-image: url("/CampusShop/img/Camisas/producto1/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto1/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -900,18 +900,18 @@ main .info-data .card {
 }
 
 .info-img__camisa2Pequeña1 {
-	background-image: url(/CampusShop/img/Camisas/producto2/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto2/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__camisa2Pequeña2 {
-	background-image: url(/CampusShop/img/Camisas/producto2/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto2/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__camisa2Pequeña3 {
-	background-image: url(/CampusShop/img/Camisas/producto2/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto2/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -920,7 +920,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Camisas/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -931,7 +931,7 @@ main .info-data .card {
 }
 
 .info-img__camisa2Pequeña1:hover ~ .info-img__camisa2Grande{
-    background-image: url("/CampusShop/img/Camisas/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -939,13 +939,13 @@ main .info-data .card {
 }
 
 .info-img__camisa2Pequeña2:hover ~ .info-img__camisa2Grande {
-    background-image: url("/CampusShop/img/Camisas/producto2/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto2/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__camisa2Pequeña3:hover ~ .info-img__camisa2Grande {
-    background-image: url("/CampusShop/img/Camisas/producto2/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto2/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -964,18 +964,18 @@ main .info-data .card {
 }
 
 .info-img__camisa3Pequeña1 {
-	background-image: url(/CampusShop/img/Camisas/producto3/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto3/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__camisa3Pequeña2 {
-	background-image: url(/CampusShop/img/Camisas/producto3/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto3/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__camisa3Pequeña3 {
-	background-image: url(/CampusShop/img/Camisas/producto3/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto3/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -984,7 +984,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Camisas/producto3/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto3/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -995,7 +995,7 @@ main .info-data .card {
 }
 
 .info-img__camisa3Pequeña1:hover ~ .info-img__camisa3Grande{
-    background-image: url("/CampusShop/img/Camisas/producto3/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto3/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1003,13 +1003,13 @@ main .info-data .card {
 }
 
 .info-img__camisa3Pequeña2:hover ~ .info-img__camisa3Grande {
-    background-image: url("/CampusShop/img/Camisas/producto3/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto3/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__camisa3Pequeña3:hover ~ .info-img__camisa3Grande {
-    background-image: url("/CampusShop/img/Camisas/producto3/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto3/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1028,18 +1028,18 @@ main .info-data .card {
 }
 
 .info-img__camisa4Pequeña1 {
-	background-image: url(/CampusShop/img/Camisas/producto4/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto4/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__camisa4Pequeña2 {
-	background-image: url(/CampusShop/img/Camisas/producto4/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto4/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__camisa4Pequeña3 {
-	background-image: url(/CampusShop/img/Camisas/producto4/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Camisas/producto4/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -1048,7 +1048,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Camisas/producto4/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto4/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -1059,7 +1059,7 @@ main .info-data .card {
 }
 
 .info-img__camisa4Pequeña1:hover ~ .info-img__camisa4Grande{
-    background-image: url("/CampusShop/img/Camisas/producto4/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto4/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1067,13 +1067,13 @@ main .info-data .card {
 }
 
 .info-img__camisa4Pequeña2:hover ~ .info-img__camisa4Grande {
-    background-image: url("/CampusShop/img/Camisas/producto4/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto4/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__camisa4Pequeña3:hover ~ .info-img__camisa4Grande {
-    background-image: url("/CampusShop/img/Camisas/producto4/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Camisas/producto4/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1093,18 +1093,18 @@ main .info-data .card {
 }
 
 .info-img__pantalon1Pequeña1 {
-	background-image: url(/CampusShop/img/Pantalones/producto1/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto1/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__pantalon1Pequeña2 {
-	background-image: url(/CampusShop/img/Pantalones/producto1/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto1/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__pantalon1Pequeña3 {
-	background-image: url(/CampusShop/img/Pantalones/producto1/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto1/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -1113,7 +1113,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Pantalones/producto1/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto1/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -1124,7 +1124,7 @@ main .info-data .card {
 }
 
 .info-img__pantalon1Pequeña1:hover ~ .info-img__pantalon1Grande{
-    background-image: url("/CampusShop/img/Pantalones/producto1/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto1/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1132,13 +1132,13 @@ main .info-data .card {
 }
 
 .info-img__pantalon1Pequeña2:hover ~ .info-img__pantalon1Grande {
-    background-image: url("/CampusShop/img/Pantalones/producto1/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto1/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__pantalon1Pequeña3:hover ~ .info-img__pantalon1Grande {
-    background-image: url("/CampusShop/img/Pantalones/producto1/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto1/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1157,18 +1157,18 @@ main .info-data .card {
 }
 
 .info-img__pantalon2Pequeña1 {
-	background-image: url(/CampusShop/img/Pantalones/producto2/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto2/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__pantalon2Pequeña2 {
-	background-image: url(/CampusShop/img/Pantalones/producto2/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto2/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__pantalon2Pequeña3 {
-	background-image: url(/CampusShop/img/Pantalones/producto2/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto2/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -1177,7 +1177,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Pantalones/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -1188,7 +1188,7 @@ main .info-data .card {
 }
 
 .info-img__pantalon2Pequeña1:hover ~ .info-img__pantalon2Grande{
-    background-image: url("/CampusShop/img/Pantalones/producto2/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto2/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1196,13 +1196,13 @@ main .info-data .card {
 }
 
 .info-img__pantalon2Pequeña2:hover ~ .info-img__pantalon2Grande {
-    background-image: url("/CampusShop/img/Pantalones/producto2/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto2/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__pantalon2Pequeña3:hover ~ .info-img__pantalon2Grande {
-    background-image: url("/CampusShop/img/Pantalones/producto2/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto2/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1221,18 +1221,18 @@ main .info-data .card {
 }
 
 .info-img__pantalon3Pequeña1 {
-	background-image: url(/CampusShop/img/Pantalones/producto3/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto3/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__pantalon3Pequeña2 {
-	background-image: url(/CampusShop/img/Pantalones/producto3/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto3/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__pantalon3Pequeña3 {
-	background-image: url(/CampusShop/img/Pantalones/producto3/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto3/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -1241,7 +1241,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Pantalones/producto3/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto3/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -1252,7 +1252,7 @@ main .info-data .card {
 }
 
 .info-img__pantalon3Pequeña1:hover ~ .info-img__pantalon3Grande{
-    background-image: url("/CampusShop/img/Pantalones/producto3/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto3/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1260,13 +1260,13 @@ main .info-data .card {
 }
 
 .info-img__pantalon3Pequeña2:hover ~ .info-img__pantalon3Grande {
-    background-image: url("/CampusShop/img/Pantalones/producto3/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto3/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__pantalon3Pequeña3:hover ~ .info-img__pantalon3Grande {
-    background-image: url("/CampusShop/img/Pantalones/producto3/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto3/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1285,18 +1285,18 @@ main .info-data .card {
 }
 
 .info-img__pantalon4Pequeña1 {
-	background-image: url(/CampusShop/img/Pantalones/producto4/pequeña1.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto4/pequeña1.webp);
 	background-size: contain;
 	margin: auto;
 }
 
 .info-img__pantalon4Pequeña2 {
-	background-image: url(/CampusShop/img/Pantalones/producto4/pequeña2.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto4/pequeña2.webp);
 	background-size: contain;
 	margin: auto;
 }
 .info-img__pantalon4Pequeña3 {
-	background-image: url(/CampusShop/img/Pantalones/producto4/pequeña3.webp);
+	background-image: url(/FiltroHTML-CSS/CampusShop/img/Pantalones/producto4/pequeña3.webp);
 	background-size: contain;
 	margin: auto;
 }
@@ -1305,7 +1305,7 @@ main .info-data .card {
     height: 500px;
     grid-column: 2 / 2;
     grid-row: 1 / span 3;
-    background-image: url("/CampusShop/img/Pantalones/producto4/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto4/grande1.webp");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -1316,7 +1316,7 @@ main .info-data .card {
 }
 
 .info-img__pantalon4Pequeña1:hover ~ .info-img__pantalon4Grande{
-    background-image: url("/CampusShop/img/Pantalones/producto4/grande1.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto4/grande1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1324,13 +1324,13 @@ main .info-data .card {
 }
 
 .info-img__pantalon4Pequeña2:hover ~ .info-img__pantalon4Grande {
-    background-image: url("/CampusShop/img/Pantalones/producto4/grande2.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto4/grande2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .info-img__pantalon4Pequeña3:hover ~ .info-img__pantalon4Grande {
-    background-image: url("/CampusShop/img/Pantalones/producto4/grande3.webp");
+    background-image: url("/FiltroHTML-CSS/CampusShop/img/Pantalones/producto4/grande3.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
